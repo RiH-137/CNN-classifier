@@ -1,9 +1,39 @@
+
+lecture--> 114
+
 Step1--> connect with github.
+
 step2--> create a readme.md file
+
 step3--> create a gitignore file in github and made changed from the template section there(github) to python.
+
 4--> create a new file in github named LICENSE. Choose a licence template and select MIT license.
+
 5--> creating a new file name "template.py" in vs code itself.
-6-->
+
+6--> setup.py file to install local packages
+
+7--> setup.cfg for meta-data (optional)
+
+8--> requirements.txt--> for production (pytest is use for testing purpose in local env)
+
+9--> requirements_dev.txt --> production +developement
+
+10--> pyproject.toml use for building system and is a standard file use for setup setip.config in local system.
+        now a days this toml file has replaced setup.config file.
+
+11--> tox file is use for loal testing system
+
+12--> init_setup.sh(shellscript)--> instead to of writting command in terminal we use .sh file
+        and is use to setup and activate the "env"
+
+13--> echo is .sh file is use to start in the termial.
+
+14 --> after all setup of file is done. lets start with the setminal--> "bash init_setup.sh" 
+        change from "powershell" to "bash".
+
+15-->  
+
 
 
 
