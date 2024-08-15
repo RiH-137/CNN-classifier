@@ -2,7 +2,8 @@ Step1--> connect with github.
 step2--> create a readme.md file
 step3--> create a gitignore file in github and made changed from the template section there(github) to python.
 4--> create a new file in github named LICENSE. Choose a licence template and select MIT license.
-
+5--> creating a new file name "template.py" in vs code itself.
+6-->
 
 
 
