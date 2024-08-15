@@ -1,6 +1,7 @@
 Step1--> connect with github.
 step2--> create a readme.md file
-step3--> 
+step3--> create a gitignore file in github and made changed from the template section there(github) to python.
+4--> 
 
 
 
